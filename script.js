@@ -124,8 +124,6 @@ const perguntas = [
   
   
     quizItem.querySelector('dl dt').remove()
-  
-  
-    // coloca a pergunta na tela
+
     quiz.appendChild(quizItem)
   }
